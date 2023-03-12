@@ -49,6 +49,7 @@ digito_2 = (resultado_digito_2 * 10) % 11
 digito_2 = digito_2 if digito_2 <= 9 else 0
 
 cpf_gerado_pelo_calculo = f'{cpf_nove}{digito_1}{digito_2}'
+
 if lista_cpf == cpf_gerado_pelo_calculo:
     print(f'{lista_cpf} é valido')
 else:
