@@ -25,7 +25,7 @@ contrário disso:
 O primeiro dígito do CPF é 7
 """
 # lista_cpf = input('Digite seu cpf: ')
-lista_cpf = '433048234938'
+lista_cpf = '14350741062'
 cpf_nove = lista_cpf[:9]
 contador_regressivo = 10
 resultado_digito_1 = 0
