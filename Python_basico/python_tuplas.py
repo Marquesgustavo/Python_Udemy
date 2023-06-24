@@ -1,5 +1,6 @@
 """
 tipo tupla - Uma lista imutável
+# tuplas não podem ser alteradas
 """
 
 nomes = 'Maria','Helena','Luiz' #CRIAÇÃO DE TUPLAS
